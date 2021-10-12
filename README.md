@@ -5,9 +5,7 @@
 **The <1 kb _state machine_ hook for React:**
 
 
-# READ FIRST
-
-As we're preparing for the 1.0 launch, this documentation got outdated with the lateast beta (1.0.0-beta.4). Feel free to use the Beta 3 or wait while we are working on the updated docs.
+### Update: As we're preparing for the 1.0 launch, this documentation got outdated with the lateast beta (1.0.0-beta.4). Feel free to use the Beta 3 or wait while we are working on the updated docs.
 
 
 
